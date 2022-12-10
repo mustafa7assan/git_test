@@ -1,1 +1,2 @@
 Hello, World
+I learn how to write commit messages using vscode
